@@ -22,7 +22,7 @@ FetchContent_Declare( Log
 
 FetchContent_Declare( header-utilities
     GIT_REPOSITORY  http://github.com/njoy/header-utilities
-    GIT_TAG         origin/build/fetchcontent
+    GIT_TAG         origin/build/fetchcontent-guards
     )
 
 FetchContent_Declare( dimwits
